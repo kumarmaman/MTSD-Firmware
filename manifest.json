@@ -1,0 +1,7 @@
+{
+  "version": "1.1.6",
+  "firmware_url": "https://raw.githubusercontent.com/kumarmaman/MTSD-Firmware/main/firmware.bin",
+  "sha256": "2cb0c7e7acef89bc9ae8a08fbba62993514e061a6ed69a23837e615f188672d3",
+  "signature": "MEUCIQDQZ1ZN0pUy1Va4oodR0T4c573tt870bIRGHLAtxUCQQQIgMoe9dDn+pTTX53FgXqWuMcWA246Ha+En1QTdHzBeQC4=",
+  "size": 1528112
+}
